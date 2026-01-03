@@ -36,6 +36,9 @@ El diseño del sistema se apoya en un diagrama UML de clases que representa las 
 - SQLite  
 - Swagger (OpenAPI)
 
+## Instalar dependencias:
+   pip install -r requerimientos.txt
+
 ## Ejecución del proyecto
 Para ejecutar la aplicación, utilizar el siguiente comando:
 
